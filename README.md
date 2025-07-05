@@ -105,7 +105,7 @@ I truly enjoyed building this system during my internship and solving real-world
 
 If you'd like to see more cool projects, connect, or collaborate:
 
-[Visit My GitHub Profile](https://github.com/SP-Kamalesh)
+[Visit My GitHub Profile](https://github.com/KamaleshSP)
 [Visit My LinkedIn Profile](https://www.linkedin.com/in/kamalesh-sp)
 
 Let’s keep innovating, one line of code at a time.  
