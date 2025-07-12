@@ -32,7 +32,6 @@ class AttentivenessMonitor(QMainWindow):
         self.ai_feedback = AIFeedback()
         self.eye_tracker = EyeTracker()
         self.yawn_detector = YawnDetector()
-        # self.head_turn_detector = HeadTurnDetector()  # REMOVED
         self.multiple_face_detector = MultipleFaceDetector()
         self.face_presence_detector = FacePresenceDetector()
         self.emergency_wakeup = EmergencyWakeup()
